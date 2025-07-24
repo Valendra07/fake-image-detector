@@ -60,7 +60,4 @@ After ELA processing, the modified images are fed into a CNN. CNNs are particula
 - 📰 Authenticating images in journalism, legal, or forensic contexts  
 - 🎓 Developing educational tools for teaching digital image integrity  
 
----
-
-## 📁 Folder Structure
 
